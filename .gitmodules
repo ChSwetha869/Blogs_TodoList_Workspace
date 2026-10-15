@@ -1,0 +1,6 @@
+[submodule "Blogs_TodoList_NodeJS_Backend"]
+	path = Blogs_TodoList_NodeJS_Backend
+	url = https://github.com/ChSwetha869/Blogs_TodoList_NodeJS_Backend.git
+[submodule "Blogs_TodoList_ReactJS_Frontend"]
+	path = Blogs_TodoList_ReactJS_Frontend
+	url = https://github.com/ChSwetha869/Blogs_TodoList_ReactJS_Frontend.git
